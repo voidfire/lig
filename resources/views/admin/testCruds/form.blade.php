@@ -6,4 +6,9 @@
         'label' => 'Description',
         'maxlength' => 100
     ])
+
+    @formField('medias', [
+        'name' => 'cover',
+        'label' => 'Cover image',
+    ])
 @stop
